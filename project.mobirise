@@ -45,8 +45,8 @@
     "PWA": {
       "enabled": true,
       "name": "SKM",
-      "icon": "@PROJECT_PATH@/assets/images/img-1411-512x512.png",
-      "themeColor": "#000000"
+      "icon": "@PROJECT_PATH@/assets/images/preview-512x512_1.png",
+      "themeColor": "#212121"
     },
     "favicon": false,
     "canonical-url": false,
